@@ -2,6 +2,8 @@
 
 A simple typewriter animation created using JavaScript. This project showcases an animated typewriter effect to display text on a web page.
 
+![Type Writter](screenshot.png)
+
 ## Demo
 
 Check out the live demo [here](https://rh-playground.github.io/Javascript-Animation-TypeWritter/).
